@@ -1,0 +1,9 @@
+#form-sucess,
+#form-error {
+  display: none;
+}
+
+#page-success,
+#page-error {
+  display: none;
+}
