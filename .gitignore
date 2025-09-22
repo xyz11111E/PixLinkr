@@ -1,0 +1,50 @@
+# Файлы операционных систем
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Файлы редакторов/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Логи
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Файлы зависимостей
+node_modules/
+bower_components/
+
+# Скомпилированные файлы
+*.class
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Архивы
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# dotenv environment variables file
+.env
+src/.env

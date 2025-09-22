@@ -1,7 +1,7 @@
 services:
   apache:
     image: php:8.3-apache
-    container_name: spt-apache
+    container_name: pixlinkr_web
     volumes:
       - ./src:/var/www/html
       - ./apache.conf:/etc/apache2/sites-available/000-default.conf
@@ -20,15 +20,15 @@ services:
 
   db:
     image: mysql:9.4.0
-    container_name: spt-mysql
+    container_name: pixlinkr-mysql
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: 124358
-      MYSQL_DATABASE: spt_db
+      MYSQL_DATABASE: pixlinkr_db
       MYSQL_USER: patric
       MYSQL_PASSWORD: patric
     ports:
-      - "3318:3306"
+      - "3321:3306"
     volumes:
       - db_data:/var/lib/mysql
 
