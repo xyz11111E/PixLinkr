@@ -17,6 +17,8 @@ $router->get("/", "home@PageController");
 $router->get("/about", "about@PageController");
 $router->get("/contact", "contact@PageController");
 
+$router->get("/new_album", "new_album@PageController");
+
 $router->get("/dashboard", "dashboard@PageController");
 
 $router->get("/login", "login@AuthController");

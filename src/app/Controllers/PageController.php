@@ -21,6 +21,11 @@ class PageController extends Controller
         require __DIR__ . "/../Views/contact.php";
     }
 
+    public function new_album()
+    {
+        require __DIR__ .  "/../Views/new_album.php";
+    }
+
     public function dashboard()
     {
         if (!User::loggedIn())
